@@ -1,0 +1,13 @@
+C:\Users\thiag\source\repos\CalculadoraDio\CalculadoraDio\bin\Debug\netcoreapp3.1\CalculadoraDio.exe
+C:\Users\thiag\source\repos\CalculadoraDio\CalculadoraDio\bin\Debug\netcoreapp3.1\CalculadoraDio.deps.json
+C:\Users\thiag\source\repos\CalculadoraDio\CalculadoraDio\bin\Debug\netcoreapp3.1\CalculadoraDio.runtimeconfig.json
+C:\Users\thiag\source\repos\CalculadoraDio\CalculadoraDio\bin\Debug\netcoreapp3.1\CalculadoraDio.runtimeconfig.dev.json
+C:\Users\thiag\source\repos\CalculadoraDio\CalculadoraDio\bin\Debug\netcoreapp3.1\CalculadoraDio.dll
+C:\Users\thiag\source\repos\CalculadoraDio\CalculadoraDio\bin\Debug\netcoreapp3.1\CalculadoraDio.pdb
+C:\Users\thiag\source\repos\CalculadoraDio\CalculadoraDio\obj\Debug\netcoreapp3.1\CalculadoraDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\source\repos\CalculadoraDio\CalculadoraDio\obj\Debug\netcoreapp3.1\CalculadoraDio.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\CalculadoraDio\CalculadoraDio\obj\Debug\netcoreapp3.1\CalculadoraDio.AssemblyInfo.cs
+C:\Users\thiag\source\repos\CalculadoraDio\CalculadoraDio\obj\Debug\netcoreapp3.1\CalculadoraDio.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\CalculadoraDio\CalculadoraDio\obj\Debug\netcoreapp3.1\CalculadoraDio.dll
+C:\Users\thiag\source\repos\CalculadoraDio\CalculadoraDio\obj\Debug\netcoreapp3.1\CalculadoraDio.pdb
+C:\Users\thiag\source\repos\CalculadoraDio\CalculadoraDio\obj\Debug\netcoreapp3.1\CalculadoraDio.genruntimeconfig.cache
